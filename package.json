@@ -9,7 +9,7 @@
     "build": "bun run build.ts"
   },
   "dependencies": {
-    "@anthropic-ai/claude-code": "^1.0.89",
+    "@anthropic-ai/claude-code": "^2.0.31",
     "@radix-ui/react-label": "^2.1.7",
     "@radix-ui/react-select": "^2.2.5",
     "@radix-ui/react-slot": "^1.2.3",
